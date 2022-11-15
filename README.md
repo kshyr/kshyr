@@ -15,30 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 59 Contributions in the Year 2022
- > 
-> 📦 12.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████████████░░░░░░░░░   66.67% 
-Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 
-
- Last Updated on 15/11/2022 05:13:28 UTC
+ Last Updated on 15/11/2022 05:27:37 UTC
 <!--END_SECTION:waka-->
