@@ -33,3 +33,5 @@ pixel-art-react          45 mins             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=deko95&theme=gruvbox_duo)](https://git.io/streak-stats)
