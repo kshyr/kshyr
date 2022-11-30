@@ -36,4 +36,3 @@ rebase-test              0 secs              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deko95&theme=tokyonight_duo)](https://git.io/streak-stats)
